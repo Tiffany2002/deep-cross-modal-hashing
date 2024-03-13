@@ -4,7 +4,7 @@
 torchcmh is a library built on PyTorch for deep learning cross modal hashing.\
 Including: 
 - data visualization
-- baseline methods
+- baseline methods12121212
 - multiple data reading API
 - loss function API
 - config call
