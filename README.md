@@ -1,4 +1,4 @@
-# 这是李心怡的仓库
+# 这是wwy的仓库
 [Chinese readme](./README_zh.md)
 
 torchcmh is a library built on PyTorch for deep learning cross modal hashing.\
